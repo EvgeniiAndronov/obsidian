@@ -27,32 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "тестовый файл.md",
+                "file": "Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "тестовый файл"
+              "title": "Lecture"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "d4e51665d26fb209",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "27d32a6a73f7577e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 261.5
   },
   "right": {
     "id": "4d39efe598f82ed0",
@@ -125,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "тестовый файл.md",
+                "file": "Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для тестовый файл"
+              "title": "Обратные ссылки для Lecture"
             }
           },
           {
@@ -173,16 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "тестовый файл.md",
+                "file": "Lecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура тестовый файл"
+              "title": "Структура Lecture"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,12 +182,13 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c77c3152db01d12a",
   "lastOpenFiles": [
-    "Lecture.md",
-    "тестовый файл.md"
+    "тестовый файл.md",
+    "Lecture.md"
   ]
 }
